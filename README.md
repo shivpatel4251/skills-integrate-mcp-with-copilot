@@ -1,3 +1,5 @@
+[![Step 4](https://github.com/shivpatel4251/skills-integrate-mcp-with-copilot/actions/workflows/4-step.yml/badge.svg)](https://github.com/shivpatel4251/skills-integrate-mcp-with-copilot/actions/workflows/4-step.yml)
+
 <div align="center">
 
 # 🎉 Congratulations shivpatel4251! 🎉
